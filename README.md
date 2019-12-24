@@ -20,4 +20,4 @@ gcc cuintstr-out.c
 
 # 测试的vala代码是一个简单的kv map实现。
 
-# 目前的问题是只能用struct，有部分函数未实现。
+# 目前的问题是OOP定义只能用struct，有部分函数未实现。
