@@ -17,3 +17,7 @@ gcc cuintstr-out.c
 # string的处理 substr,indexof,lastindexof
 # list的处理基于双想链表
 # g_utf8_strdown g_utf8_strup g_utf8_strreverse g_strdup_printf g_strconcat g_strrstr等函数
+
+# 测试的vala代码是一个简单的kv map实现。
+
+# 目前的问题是只能用struct，有部分函数未实现。
